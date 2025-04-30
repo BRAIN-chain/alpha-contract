@@ -1,0 +1,30 @@
+{
+  "name": "queue-contract",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BRAIN-chain/queue-contract.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BRAIN-chain/queue-contract/issues"
+  },
+  "homepage": "https://github.com/BRAIN-chain/queue-contract#readme",
+  "dependencies": {
+    "@prb/math": "^4.1.0",
+    "discrete-sampling": "^1.0.3",
+    "ganache-cli": "^6.12.2",
+    "hardhat": "^2.23.0"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.1",
+    "cli-progress": "^3.12.0",
+    "hardhat-gas-reporter": "^1.0.9"
+  }
+}
