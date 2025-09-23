@@ -34,7 +34,7 @@ module.exports = {
     hardhat: {
       forking: {
         enabled: true,
-        url: 'https://eth.drpc.org',
+        url: 'https://ethereum-rpc.publicnode.com',
         // url: 'https://mainnet.optimism.io',
         // url: 'https://arb1.arbitrum.io/rpc',
       },
